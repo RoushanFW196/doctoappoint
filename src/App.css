@@ -3,3 +3,23 @@
   margin: 0;
   padding: 0;
 }
+
+.intro{
+  width:350px;
+  height: 500px;
+  margin:10px 80px ;
+  padding: 10px;
+  margin-top:-500px;
+  
+  
+
+}
+.intro p{
+  padding: 10px  0px;
+  color:darkslategray;
+}
+.intro button{
+  padding: 10px 20px;
+  background-color:rgb(128, 134, 134);
+  color:rgb(255, 255, 255);
+}
